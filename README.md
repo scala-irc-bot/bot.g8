@@ -5,7 +5,7 @@ This template generates a project using:
 
 - scala 2.9.2
 - sbt
-- [specs2](http://etorreborre.github.com/specs2/) 1.12.1
+- [specs2](http://etorreborre.github.com/specs2/) 1.12.2
 - [sbt-assembly](https://github.com/sbt/sbt-assembly) 0.8.4
 - scala-irc-bot
 
