@@ -1,3 +1,3 @@
-scalaVersion := "2.9.2"
+scalaVersion := "2.10.4"
 
-addSbtPlugin("com.eed3si9n" % "sbt-assembly" % "0.8.4")
+addSbtPlugin("com.eed3si9n" % "sbt-assembly" % "0.11.2")
